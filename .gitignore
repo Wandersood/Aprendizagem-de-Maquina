@@ -1,0 +1,47 @@
+# IDEs e configurações locais
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# Ambientes virtuais
+.env/
+.venv/
+env/
+venv/
+
+# Dados e arquivos temporários
+*.xlsx
+*.xls
+*.tmp
+*.bak
+
+# Arquivos de configuração locais
+*.env
+secrets.json
+
+# Jupyter Notebooks (se estiver usando)
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+
+# PyCharm & JetBrains
+*.iml
+
+AM/

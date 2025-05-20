@@ -1,0 +1,8 @@
+;ITAÚ;SANTANDER;BB;BTG;MASTER;PAGSEGURO;XP
+Tempo;Variável;Variável;Variável;Variável;45 meses;Variável;Variável
+Valor Inicial; R$ 1.000,00 ; R$ 1.000,00 ; R$ 1.000,00 ; R$ 1.000,00 ; R$ 1.000,00 ; R$ 500,00 ;R$ 1.000,00
+% CDI;14,25% a.a ;15,5% a.a;14,25% a.a ;14,25% a.a ;16,50% a.a;14,25% a.a ;16,00% a.a.
+Tempo de Mercado;100 anos;167 anos;216 anos;42 anos;7 anos;18 anos;24 anos
+Lucro Liquido;10,51 bi;3,78 bi;8,77 bi;3,3 bi;1,068 bi;631 mi;1,18 bi
+Reputação RA;7.3;5.7;7.8 ;8.5;8.7;8.5;7.9
+Capital aberto ;true;true;true;true;false;true;true
